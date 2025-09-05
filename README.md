@@ -1,0 +1,1 @@
+# Reddit Summarizer — Groq Llama-3.1-70b build\n\nThis extension uses the Groq API (model: llama-3.1-70b-versatile) and shows a clean summary UI.\n\n**Warning:** the API key is embedded in service_worker.js in this test build. Keep it private.
